@@ -1,3 +1,11 @@
+
+Hello. I am a PhD student in Political and Social Sciences at the University of Bologna
+
+I am interested in computational social science, survey experiments and political communication.
+
+My CV is here. 
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/everythinginitsrightplace/aidar.zinnatullin.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -37,8 +45,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 
-Hello. I am a first year PhD student in Political and Social Sciences at the University of Bologna
 
-I am interested in computational social science, survey experiments and political communication.
-
-My CV is here. 
