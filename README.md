@@ -1,4 +1,4 @@
-# aidar.zinnatullin.github.io
+# Aidar Zinnatullin
 
 
 Hello. I am a PhD student in Political and Social Sciences at the University of Bologna
