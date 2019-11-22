@@ -5,10 +5,7 @@ body {
   text-align: left;   
   color:#555555;
 }
-h2,
-h3,
-h4,
-h5 {
+h2 {
   color: #57068c;
 }
 .col-md-6 {
