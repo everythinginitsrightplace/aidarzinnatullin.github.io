@@ -1,8 +1,9 @@
 body {
   font-size: 12px;
   cursor: default;
-  background-color: #ffffff;
-  text-align: left;
+  background-color: #f4f4f4;
+  text-align: left;   
+  color:#555555;
 }
 h2,
 h3,
